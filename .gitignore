@@ -6,7 +6,9 @@
 .DS_Store
 .AppleDouble
 .LSOverride
-
+.ipynb_checkpoints
+.vscode
+__pycache__
 datasets
 
 # Icon must end with two \r
@@ -37,3 +39,4 @@ Temporary Items
 *.icloud
 
 # End of https://www.toptal.com/developers/gitignore/api/macos
+.DS_Store
